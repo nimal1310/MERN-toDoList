@@ -27,7 +27,7 @@ A beautifully styled and responsive **Task Manager** built using **React** (Fron
 
 ## 📷 UI Preview
 
-![Task Manager UI Preview](https://via.placeholder.com/600x300.png?text=Task+Manager+App+Preview)
+![Task Manager UI Preview](./preview.png)
 
 > *Gradient background + center-aligned card with task list below*
 
