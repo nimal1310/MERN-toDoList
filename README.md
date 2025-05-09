@@ -37,7 +37,7 @@ A beautifully styled and responsive **Task Manager** built using **React** (Fron
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone [https://github.com/your-username/task-manager.git](https://github.com/nimal1310/MERN-toDoList.git)
+git clone https://github.com/nimal1310/MERN-toDoList.git
 cd task-manager
 ### 2️⃣ Clone the repository
 npm install
